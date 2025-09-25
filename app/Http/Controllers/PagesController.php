@@ -14,44 +14,20 @@ class PagesController extends Controller
         return view('index');
     }
 
-   public function about()
+    
+   public function services()
     {
-        return view('pages.about');
+        return view('services');
     }
+  
 
 
-public function websitePackage()
+
+public function about()
 {
-    return view('websitePackage');
+    return view('about');
 }
 
-
-public function webhosting()
-{
-    return view('webhosting');
-}
-
-public function support()
-{
-    return view('support');
-}
-
-public function contactus()
-{
-    return view('contactus');
-}
-
-
-public function portfolio()
-{
-    return view('portfolio');
-}
-
-
-public function services()
-{
-    return view('services');
-}
 
 
 
