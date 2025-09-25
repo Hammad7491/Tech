@@ -48,6 +48,12 @@ public function portfolio()
 }
 
 
+public function services()
+{
+    return view('services');
+}
+
+
 
 
 }
