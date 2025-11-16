@@ -74,12 +74,11 @@
         <p>Developer handover, admin panel training, and operation manuals so your team can run the product.</p>
       </div>
 
-      <!-- ===== AI AUTOMATION SERVICES (NEW 8 CARDS) ===== -->
+      <!-- ===== AI AUTOMATION SERVICES (8 CARDS, WITHOUT LABEL TEXT) ===== -->
 
       <!-- 11: Chatbot Automation -->
       <div class="service-card ai-card">
         <img src="{{ asset('assets/images/ai.png') }}" alt="Chatbot Automation">
-        <span class="service-tag">AI Automation</span>
         <h3>Chatbot Automation</h3>
         <p>Website chatbots, WhatsApp and Facebook Messenger bots, automated customer support, and appointment booking flows to handle queries 24/7.</p>
       </div>
@@ -87,7 +86,6 @@
       <!-- 12: Social Media Automation -->
       <div class="service-card ai-card">
         <img src="{{ asset('assets/images/social.png') }}" alt="Social Media Automation">
-        <span class="service-tag">AI Automation</span>
         <h3>Social Media Automation</h3>
         <p>Auto post scheduling, AI-powered content writing, video script generation, captions, and smart auto-replies to boost engagement.</p>
       </div>
@@ -95,7 +93,6 @@
       <!-- 13: Business Process Automation -->
       <div class="service-card ai-card">
         <img src="{{ asset('assets/images/business.png') }}" alt="Business Process Automation">
-        <span class="service-tag">AI Automation</span>
         <h3>Business Process Automation</h3>
         <p>Automated invoicing, billing, CRM workflows, inventory updates, HR tasks (CV sorting, hiring pipelines), and email automation for smoother operations.</p>
       </div>
@@ -103,7 +100,6 @@
       <!-- 14: E-commerce Automation -->
       <div class="service-card ai-card">
         <img src="{{ asset('assets/images/ecommerce.png') }}" alt="E-commerce Automation">
-        <span class="service-tag">AI Automation</span>
         <h3>E-commerce Automation</h3>
         <p>Dropshipping store automation, AI-based product research, auto product descriptions, customer handling bots, and Shopify/Amazon workflows.</p>
       </div>
@@ -111,7 +107,6 @@
       <!-- 15: Marketing Automation -->
       <div class="service-card ai-card">
         <img src="{{ asset('assets/images/marketing.png') }}" alt="Marketing Automation">
-        <span class="service-tag">AI Automation</span>
         <h3>Marketing Automation</h3>
         <p>Email campaigns, SMS/WhatsApp marketing flows, lead generation bots, and retargeting automations to convert visitors into customers.</p>
       </div>
@@ -119,7 +114,6 @@
       <!-- 16: Data Automation -->
       <div class="service-card ai-card">
         <img src="{{ asset('assets/images/data.png') }}" alt="Data Automation">
-        <span class="service-tag">AI Automation</span>
         <h3>Data Automation</h3>
         <p>Data scraping, data cleaning pipelines, Excel/Sheets automation, and auto-generated reports so you always have up-to-date insights.</p>
       </div>
@@ -127,7 +121,6 @@
       <!-- 17: AI Video & Content Creation -->
       <div class="service-card ai-card">
         <img src="{{ asset('assets/images/video.png') }}" alt="AI Video &amp; Content Creation">
-        <span class="service-tag">AI Automation</span>
         <h3>AI Video &amp; Content Creation</h3>
         <p>Faceless videos, Shorts/Reels automation, auto video editing workflows, AI voice-overs, and thumbnail generation for your content channels.</p>
       </div>
@@ -135,7 +128,6 @@
       <!-- 18: Workflow Automation Tools -->
       <div class="service-card ai-card">
         <img src="{{ asset('assets/images/workflow.png') }}" alt="Workflow Automation Tools">
-        <span class="service-tag">AI Automation</span>
         <h3>Workflow Automation Tools</h3>
         <p>End-to-end automation using tools like Zapier, Make (Integromat), Airtable, Notion, and Google Workspace to connect all your apps and workflows.</p>
       </div>
@@ -259,27 +251,9 @@
     flex: 1;
   }
 
-  /* AI card accent */
-  .ai-card {
-    position: relative;
-  }
-
-  .service-tag {
-    position: absolute;
-    top: 0.9rem;
-    left: 0.9rem;
-    background: rgba(59, 130, 246, 0.1);
-    color: #1d4ed8;
-    font-size: 0.75rem;
-    font-weight: 600;
-    padding: 0.25rem 0.6rem;
-    border-radius: 999px;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-  }
-
+  /* AI cards (optional subtle styling only, no label) */
   .ai-card img {
-    filter: saturate(1.1);
+    filter: saturate(1.05);
   }
 
   /* Packages */
