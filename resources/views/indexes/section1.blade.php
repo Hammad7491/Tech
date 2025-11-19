@@ -1,11 +1,11 @@
 <section class="about-section">
   <div class="container">
-    <h2>ABOUT AHMED TECH</h2>
+    <h2>ABOUT AHMED Vision</h2>
     <p class="subtitle">
       We create innovative technology solutions for businesses and individuals.
     </p>
     <p class="description">
-      Ahmed Tech is a growing digital technology company commited to providing
+      Ahmed Vision is a growing digital technology company commited to providing
       innovative, reliable, and affordable IT solutions for businesses and
       individuals. We specialize in developing high-quality mobile <em>applications</em>, 
       <em>web</em> platforms, and customized software solutions that meet the demands 
