@@ -2,7 +2,7 @@
   <nav class="navbar">
     <div class="logo">
       <img src="logo.png" alt="Ahmed Tech Logo">
-      <span>AHMED TECH</span>
+      <span>AHMED Vision</span>
     </div>
     <ul class="nav-links">
   <li><a href="{{ route('index') }}">Home</a></li>

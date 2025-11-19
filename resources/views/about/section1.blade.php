@@ -1,23 +1,23 @@
 <!-- About Section -->
 <section class="about-page">
   <div class="container">
-    <h2 class="section-title">About Ahmed Tech</h2>
+    <h2 class="section-title">About Ahmed Vision</h2>
     <p class="about-intro">
-      Ahmed Tech is a modern technology hub dedicated to creating smart, innovative, and user-friendly digital solutions. 
+      Ahmed Vision is a modern technology hub dedicated to creating smart, innovative, and user-friendly digital solutions. 
       We specialize in mobile app development, web design, software solutions, and technology consulting. 
       Our mission is to empower businesses and individuals by providing high-quality, reliable, and affordable 
       tech services tailored to meet their unique needs.
     </p>
 
     <p class="about-body">
-      With a vision to bring innovation closer to people, Ahmed Tech focuses on combining creativity with 
+      With a vision to bring innovation closer to people, Ahmed Vision focuses on combining creativity with 
       cutting-edge technology. Whether it’s building intuitive apps, designing professional websites, or 
       developing customized software, we are committed to delivering excellence that drives success in the 
       digital world.
     </p>
 
     <p class="about-body">
-      At Ahmed Tech, technology is not just a tool — it’s a way to transform ideas into reality.
+      At Ahmed Vision, technology is not just a tool — it’s a way to transform ideas into reality.
     </p>
   </div>
 </section>

@@ -1,7 +1,7 @@
 <footer class="footer">
   <div class="container">
     <div class="footer-contact">
-      <p>Email: <a href="mailto:info@ahmudtech.com">hello@ahmedtech.com</a></p>
+      <p>Email: <a href="mailto:info@ahmudvision.com">hello@ahmedvision.com</a></p>
       <p>Phone: <a href="tel:+1234567890">+92 304 7982969</a></p>
     </div>
     <div class="footer-social">
