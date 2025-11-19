@@ -13,8 +13,8 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 		<meta name="author" content="Jthemes"/>	
-		<meta name="description" content="Treko - Software & Startup Premium Landing Page Template"/>
-		<meta name="keywords" content="Responsive, HTML5 Template, Jthemes, Landing, Startup, Software, Business, Company, Creative, Freelancers">	
+		<meta name="description" content="Ahmed Vision is a modern technology hub providing innovative mobile app development, web design, custom software, cloud & database solutions, automation, and IT consulting for businesses and individuals." />
+		<meta name="keywords" content="Ahmed Vision, mobile app development, Android, iOS, web design, web development, custom software solutions, cloud solutions, database solutions, API integrations, UI UX design, digital transformation, chatbot automation, social media automation, IT consulting" />	
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 				
   		<!-- SITE TITLE -->
